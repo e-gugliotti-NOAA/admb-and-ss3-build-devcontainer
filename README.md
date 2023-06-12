@@ -1,2 +1,2 @@
 # amdb-and-ss3-build-devcontainer
-This is a template to create a codespace that builds admb from source, builds stock-synthesis from source, and downloads R packages to view stock synthesis output and run simulations (r4ss and ss3sim)
+This is a template to create a codespace for Stock Synthesis developers that builds ADMB 13.1 from source, builds the [Stock Synthesis repository](https://github.com/nmfs-stock-synthesis/stock-synthesis/releases/download/v3.30.21/ss_linux) and associated R packages ([r4ss](https://github.com/r4ss/r4ss), [ss3diags](https://github.com/PIFSCstockassessments/ss3diags), and [ss3sim](https://github.com/ss3sim/ss3sim)) on a Linux machine using R version 4.1.0.
