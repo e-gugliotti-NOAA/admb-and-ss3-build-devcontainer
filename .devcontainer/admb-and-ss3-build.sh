@@ -14,7 +14,7 @@ cd examples/admb/simple
 sudo admb simple.tpl
 sudo ./simple
 cd /workflows/github-actions-test
-wget https://github.com/nmfs-stock-synthesis/stock-synthesis/archive/main.zip
+wget https://github.com/nmfs-ost/ss3-source-code/archive/main.zip
 sudo unzip main.zip -d /usr/local/bin
 sudo chmod 777 /usr/local/bin/stock-synthesis-main
 cd /usr/local/bin/stock-synthesis-main
